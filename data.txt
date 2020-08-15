@@ -1,8 +1,4 @@
 File we modify all the time.
 First Modification 
-<<<<<<< HEAD
-Edited this line
-=======
-Edited this line---sreeja 
+GITHUB PUSH
 
->>>>>>> ae95f2290d68f1381c2f4d3d16c83ddff9645a81
